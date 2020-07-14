@@ -1,4 +1,26 @@
-### Hi there 👋
+## 👋 Hi there, welcome to my Github profile
+
+My name is Bruno Garcia and i'm currently working at 🏢 Sensedia as a Software Developer
+
+### 💝 Some technologies and topics that i love
+🔸 Node.JS
+
+🔸 Java
+
+🔸 React.JS
+
+🔸 Cloud computing
+
+🔸 TDD
+
+🔸 Microservices
+
+### 📫 Dont hesitate to contact me
+Email: brunogarciarana@gmail.com
+
+### 🚀 Feel free to explore my repositories
+
+
 
 <!--
 **brunograna/brunograna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
