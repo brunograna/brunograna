@@ -16,9 +16,8 @@ My name is Bruno Garcia and i'm currently working at 🏢 Sensedia as a Software
 🔸 Microservices
 
 ### 📫 Dont hesitate to contact me
-🔷 [Email](mailto:brunogarciarana@gmail.com)
 
-🔷 [Linkedin](https://www.linkedin.com/in/dev-brunogarcia/)
+[Email](mailto:brunogarciarana@gmail.com) or [Linkedin](https://www.linkedin.com/in/dev-brunogarcia/) 
 
 ### 🚀 Feel free to explore my repositories
 
