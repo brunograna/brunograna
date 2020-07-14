@@ -3,19 +3,19 @@
 My name is Bruno Garcia and i'm currently working at 🏢 Sensedia as a Software Developer
 
 ### 💝 Some technologies and topics that i love
-🔸 Node.JS
+🔹 Node.JS
 
-🔸 Java
+🔹 Java
 
-🔸 React.JS
+🔹 React.JS
 
-🔸 Cloud computing
+🔹 Cloud computing
 
-🔸 TDD
+🔹 TDD
 
-🔸 Microservices
+🔹 Microservices
 
-### 📫 Dont hesitate to contact me
+### 📫 Don't hesitate to contact me
 
 [Email](mailto:brunogarciarana@gmail.com) or [Linkedin](https://www.linkedin.com/in/dev-brunogarcia/) 
 
