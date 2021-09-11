@@ -1,6 +1,6 @@
 ## 👋 Hi there, welcome to my Github profile
 
-My name is Bruno Garcia and i'm currently working at 🏢 Sensedia as a Software Developer
+My name is Bruno Garcia and i'm currently working at 🏢 Itaú Unibanco as a Software Developer
 
 ### 💝 Some technologies and topics that i love
 🔹 Node.JS
