@@ -17,7 +17,7 @@ My name is Bruno Garcia and i'm currently working at 🏢 Itaú Unibanco as a So
 
 ### 📫 Don't hesitate to contact me
 
-[Email](mailto:brunogarciarana@gmail.com) or [Linkedin](https://www.linkedin.com/in/dev-brunogarcia/) 
+[Linkedin](https://www.linkedin.com/in/dev-brunogarcia/) 
 
 ### 🚀 Feel free to explore my repositories
 
