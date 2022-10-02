@@ -1,17 +1,13 @@
 ## 👋 Hi there, welcome to my Github profile
 
-My name is Bruno Garcia and i'm currently working at 🏢 Itaú Unibanco as a Software Developer
+My name is Bruno Garcia and i'm currently working at 🏢 Itaú Unibanco as Tech Lead
 
 ### 💝 Some technologies and topics that i love
-🔹 Node.JS
-
 🔹 Java
 
-🔹 React.JS
+🔹 TDD
 
 🔹 Cloud computing
-
-🔹 TDD
 
 🔹 Microservices
 
