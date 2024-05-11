@@ -1,7 +1,7 @@
 ## 👋 Hi there, welcome to my Github profile
 
 - My name is Bruno Garcia and i'm a Java Developer, from RJ, Brazil 🇧🇷
-- 
+
 ## About Me
 - Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
 - Tech Lead at [@Itau](https://github.com/itau)
